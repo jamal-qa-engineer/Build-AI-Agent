@@ -2,8 +2,7 @@
 
 # Objective
 
-The objective of this project was to design and implement an AI-powered agent using Lindy through the Extern program to automate real-world workflows and decision-making processes. This project focused on configuring intelligent agents to handle tasks such as information processing, conditional logic, integrations, and automated actions, with an emphasis on reliability, scalability, and practical business use cases. The goal was to demonstrate how AI agents can reduce manual effort, improve efficiency, and support automation-driven solutions in modern organizations.
-
+The objective of this project was to design and implement an AI-powered agent using Lindy through the Extern program to automate real-world workflows and decision-making processes. This project foc[...]
 
 ### Skills Learned
 - Designed and configured AI agents to automate end-to-end workflows using Lindy
@@ -13,7 +12,6 @@ The objective of this project was to design and implement an AI-powered agent us
 - Applied prompt design and optimization techniques to improve agent responses and task execution
 - Documented agent workflows, configurations, and usage for maintainability and handoff
 - Analyzed real-world use cases to align AI automation with practical business requirements
-
 
 
 ### Objective
@@ -28,10 +26,12 @@ The objective of this project was to design and implement an AI-powered agent us
 
   
 
-
-
-
 Ref 1: Network Di
 About
 
 
+## AI Agent Dashboard
+
+AI Agent Dasboard
+
+![AI Agent Dashboard](AI_Agent_Dashboard.png)
