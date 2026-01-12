@@ -27,9 +27,6 @@ The objective of this project was to design and implement an AI-powered agent us
   
 
 Ref 1: Network Di
-About
-
-
 ## AI Agent Dashboard
 
 AI Agent Dasboard
