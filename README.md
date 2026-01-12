@@ -2,7 +2,7 @@
 
 # Objective
 
-The objective of this project was to design and implement an AI-powered agent using Lindy through the Extern program to automate real-world workflows and decision-making processes. This project foc[...]
+The objective of this project was to design and implement an AI-powered agent using Lindy through the Extern program to automate real-world workflows and decision-making processes. 
 
 ### Skills Learned
 - Designed and configured AI agents to automate end-to-end workflows using Lindy
